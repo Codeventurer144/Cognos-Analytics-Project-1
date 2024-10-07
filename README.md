@@ -1,2 +1,4 @@
 # Cognos-Analytics-Project-1
 Analyzing and visualizing a Customer Loyalty Program Data Module Using IBM Cognos Analytics
+In this project, I used the skills I gained from IBM Skills Network to analyze and visualize large data in a CSV file containing a business's sales and customers' data amongst other related data in columns such as 'Revenue', 'LoyaltyStatus' (of customers), 'Location Code '(for the location of customers) and so on. The project starts with a simple visualization of the performance of different products of the company from 2016 to 2020, as well as the total quantities sold and the total revenue of that time range.
+It finally delves into calculations, manipulation of data points within visualizations, applying top/bottom settings on visualizations, and constructing navigation paths, and filtering data within a dashboard.
